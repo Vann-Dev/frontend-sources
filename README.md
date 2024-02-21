@@ -6,12 +6,14 @@ So this repository will have some links or websites that can make your frontend 
   * [Free Icons](#free-icons)
   * [Assets](#assets)
   * [Colors](#color-pallete)
+  * [Design Inspiration](#design-inspiration)
 
 ## Free Icons
   * [Tabler icons](https://tabler.io/icons) | Over 4950 pixel-perfect icons for web design
   * [Lucide](https://lucide.dev) | Beautiful consistent icon Made by the community.
   * [Iconizer](https://www.iconizer.io) | Explore over 6400+ modern icons for your UI/UX design. Customizable in size, color, backgrounds, and many more. Find your unique style!
   * [Svgrepo](https://www.svgrepo.com) | 500.000+ Open-licensed SVG Vector and Icons
+  * [LordIcon](https://lordicon.com) | Free personal and commercial use animated icons
 
 ## Assets
   * [Pravatar](https://pravatar.cc) | Free dummy avatar generator with unlimited avatar
@@ -22,4 +24,10 @@ So this repository will have some links or websites that can make your frontend 
  * [Realtime Colors](https://www.realtimecolors.com) | Change website color in real time to search for the best color for your website
  * [Coolors](https://coolors.co) | Free color palette generator, explore many good color pallets
  * [Color hunt](https://colorhunt.co) | Explore free color palette
+
+## Design inspiration
+ * [Landingfolio](https://www.landingfolio.com) | The Best Landing Page Design Inspiration, Templates and More.
+ * [Flowponent](https://www.flowponent.com) | Webflow Cloneable Component Library
+ * [Figmacomponent](https://www.figcomponents.com) | Free Figma Component Library
+ * 
 
