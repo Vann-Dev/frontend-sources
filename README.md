@@ -14,6 +14,7 @@ So this repository will have some links or websites that can make your frontend 
   * [Iconizer](https://www.iconizer.io) | Explore over 6400+ modern icons for your UI/UX design. Customizable in size, color, backgrounds, and many more. Find your unique style!
   * [Svgrepo](https://www.svgrepo.com) | 500.000+ Open-licensed SVG Vector and Icons
   * [LordIcon](https://lordicon.com) | Free personal and commercial use animated icons
+  * [Unplugin Icons](https://github.com/unplugin/unplugin-icons) | Access thousands of icons as components on-demand universally. - unplugin/unplugin-icons
 
 ## Assets
   * [Pravatar](https://pravatar.cc) | Free dummy avatar generator with unlimited avatar
@@ -29,5 +30,5 @@ So this repository will have some links or websites that can make your frontend 
  * [Landingfolio](https://www.landingfolio.com) | The Best Landing Page Design Inspiration, Templates and More.
  * [Flowponent](https://www.flowponent.com) | Webflow Cloneable Component Library
  * [Figmacomponent](https://www.figcomponents.com) | Free Figma Component Library
- * 
+
 
