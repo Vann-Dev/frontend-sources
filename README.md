@@ -7,6 +7,7 @@ So this repository will have some links or websites that can make your frontend 
   * [Assets](#assets)
   * [Colors](#color-pallete)
   * [Design Inspiration](#design-inspiration)
+  * [UI Components](#ui-components)
 
 ## Free Icons
   * [Tabler icons](https://tabler.io/icons) | Over 4950 pixel-perfect icons for web design
@@ -31,4 +32,8 @@ So this repository will have some links or websites that can make your frontend 
  * [Flowponent](https://www.flowponent.com) | Webflow Cloneable Component Library
  * [Figmacomponent](https://www.figcomponents.com) | Free Figma Component Library
 
+## UI Components
+ * [Shadcn Ui](https://ui.shadcn.com) | Beautifully designed components that you can copy and paste into your apps. Accessible. Customizable. Open Source.
+ * [Aceternity Ui](https://ui.aceternity.com/) | Beautiful Tailwind CSS and Framer Motion Components, built with Next.js and TypeScript.
+ * [Next Ui](https://nextui.org) | Beautiful, fast and modern React UI library.
 
